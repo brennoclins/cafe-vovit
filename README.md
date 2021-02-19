@@ -1,21 +1,24 @@
+![Café Vovit](./src/assets/img/cafe-vovit-web.jpg)
 
 
 # Café Vovit
 
-Simple web site para a cafeteria Café Vovit
+A melhor cafeteria Café Vovit do Brasil agora com seu web site bacaninha
+
+
 
 Autor: Brenno
-Data: 19-02-2021
 
-![Café Vovit](./src/assets/img/cafe-vovit-web.jpg)
+
+### Mobile
+
+![Mobile](./src/assets/img/cafe-vovit-mobile.jpg)
+
 
 ### Web
 
 ![Tela](./src/assets/img/cafe-vovit-web2.jpg)  ![Tela2](./src/assets/img/cafe-vovit-web3.jpg)
 
-### Mobile
-
-![Mobile](./src/assets/img/cafe-vovit-mobile.jpg)
 
 ## Instalação
 
@@ -28,7 +31,7 @@ npx gatsby new <cafe-vovit-fake> https://gitlab.com/brennoclins/cafe-vovit
 Depois de criado entre na pasta do projeto e execute os comandos:
 
 ```sh
-cd cafe-vovit
+cd cafe-vovit-fake
 npm install
 npx gatsby develop
 ```

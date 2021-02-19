@@ -1,0 +1,12 @@
+.footer {
+  background-color: fade-out($secondary, 0.1);
+
+  a {
+    color: #88650b;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: #e6a756;
+  }
+}

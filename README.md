@@ -3,7 +3,7 @@
 
 # Café Vovit
 
-A melhor cafeteria Café Vovit do Brasil agora com seu web site bacaninha
+Café Vovit - A melhor cafeteria do Brasil agora com seu web site bacaninha
 
 
 
@@ -25,7 +25,7 @@ Autor: Brenno
 Crie o projeto Fake:
 
 ```sh
-npx gatsby new <cafe-vovit-fake> https://gitlab.com/brennoclins/cafe-vovit
+npx gatsby new <cafe-vovit-fake> https://github.com/brennoclins/cafe-vovit
 ```
 
 Depois de criado entre na pasta do projeto e execute os comandos:

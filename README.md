@@ -5,7 +5,7 @@
 
 Café Vovit - A melhor cafeteria do Brasil agora com seu web site bacaninha
 
-
+Veja o projeto na web: [Café Vovit](https://cafe-vovit.netlify.app)
 
 Autor: Brenno
 
@@ -20,12 +20,12 @@ Autor: Brenno
 ![Tela](./src/assets/img/cafe-vovit-web2.jpg)  ![Tela2](./src/assets/img/cafe-vovit-web3.jpg)
 
 
-## Instalação
+## Estude ou use como modelo para novos projetos
 
 Crie o projeto Fake:
 
 ```sh
-npx gatsby new <cafe-vovit-fake> https://github.com/brennoclins/cafe-vovit
+npx gatsby new cafe-vovit-fake https://github.com/brennoclins/cafe-vovit
 ```
 
 Depois de criado entre na pasta do projeto e execute os comandos:
